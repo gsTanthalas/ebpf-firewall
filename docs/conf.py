@@ -17,7 +17,7 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'ebpf-firewall'
+project = 'Thrumbo'
 copyright = '2021, Zhang Xiaoyu'
 author = 'Zhang Xiaoyu'
 
